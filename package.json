@@ -1,0 +1,19 @@
+{
+  "name": "research-tool",
+  "version": "1.0.0",
+  "description": "An easy way to map websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web-scraping",
+    "google"
+  ],
+  "author": "Nix",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "unirest": "^0.6.0"
+  }
+}
