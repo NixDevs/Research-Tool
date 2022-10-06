@@ -15,5 +15,9 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "unirest": "^0.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NixDevs/Research-Tool"
   }
 }
